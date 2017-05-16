@@ -4,16 +4,22 @@
     <line>
       <![CDATA[hi]]>
     </line>
+    <line>
+      <![CDATA[hello]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="120" started-at="2017-05-16T05:48:16Z" finished-at="2017-05-16T05:48:16Z">
+  <suite name="Default suite" duration-ms="101" started-at="2017-05-16T05:54:53Z" finished-at="2017-05-16T05:54:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="120" started-at="2017-05-16T05:48:16Z" finished-at="2017-05-16T05:48:16Z">
+    <test name="Default test" duration-ms="101" started-at="2017-05-16T05:54:53Z" finished-at="2017-05-16T05:54:53Z">
       <class name="com.flipkart.script.SampleTest">
-        <test-method status="PASS" signature="testA()[pri:0, instance:com.flipkart.script.SampleTest@66a3ffec]" name="testA" duration-ms="37" started-at="2017-05-16T11:18:16Z" finished-at="2017-05-16T11:18:16Z">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.flipkart.script.SampleTest@66a3ffec]" name="testA" duration-ms="28" started-at="2017-05-16T11:24:53Z" finished-at="2017-05-16T11:24:53Z">
           <reporter-output>
             <line>
               <![CDATA[hi]]>
+            </line>
+            <line>
+              <![CDATA[hello]]>
             </line>
           </reporter-output>
         </test-method> <!-- testA -->
