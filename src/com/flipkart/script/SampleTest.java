@@ -9,6 +9,7 @@ public class SampleTest {
 	public static void testA()
 	{
 		Reporter.log("hi",true);
+		Reporter.log("hello",true);
 	}
 
 }
